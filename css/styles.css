@@ -1,10 +1,14 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: #E4D7BA;
 }
 
 img {
   display: block;
   max-width: 100%;
+}
+
+h1, h2, h3 {
+  text-align: center;
 }
