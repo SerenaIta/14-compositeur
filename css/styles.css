@@ -37,6 +37,11 @@ p {
   font-style: normal;
 }
 
+span {
+  font-family: "agenda", sans-serif;
+  font-style: italic;
+}
+
 footer {
   text-align: center;
 }
