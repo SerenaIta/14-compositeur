@@ -58,3 +58,7 @@ footer {
 footer p {
   font-size: 12px;
 }
+
+footer img {
+  box-sizing: border-box;
+}
