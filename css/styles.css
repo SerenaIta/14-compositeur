@@ -4,6 +4,14 @@ body {
   background: #E4D7BA;
 }
 
+header {
+  margin: 20px 35px 46px 35px;
+}
+
+body main {
+  margin: 0 35px 31px 35px;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -40,6 +48,7 @@ p {
 span {
   font-family: "agenda", sans-serif;
   font-style: italic;
+  color: #444444;
 }
 
 footer {
