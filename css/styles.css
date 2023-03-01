@@ -8,7 +8,12 @@ header {
   margin: 20px 35px 46px 35px;
 }
 
-body main {
+header .burger {
+  border:red 4px;
+  align-content:end;
+}
+
+main {
   margin: 0 35px 31px 35px;
 }
 
@@ -50,15 +55,25 @@ span {
   font-style: italic;
   color: #444444;
 }
+main .prices {
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+main .element {
+  width: 50%;
+}
 
 footer {
   text-align: center;
-}
+}  
 
 footer p {
   font-size: 12px;
-}
-
+}  
 footer img {
   box-sizing: border-box;
-}
+} 
