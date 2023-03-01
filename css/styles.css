@@ -62,6 +62,7 @@ span {
   font-style: italic;
   color: #444444;
 }
+
 main .prices {
   display: flex;
   flex-direction:row;
