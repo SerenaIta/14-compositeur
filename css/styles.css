@@ -8,9 +8,10 @@ header {
   margin: 20px 35px 46px 35px;
 }
 
-header .burger {
-  border:red 4px;
-  align-content:end;
+.burger {
+  display: flex;
+  
+  align-self: flex-end;
 }
 
 main {
@@ -48,6 +49,12 @@ p {
   font-size: 18px;
   font-family: "agenda", sans-serif;
   font-style: normal;
+}
+
+iframe {
+  margin: auto;
+  width: 200px;
+  display: block;
 }
 
 span {
